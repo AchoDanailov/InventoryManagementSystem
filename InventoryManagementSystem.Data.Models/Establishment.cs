@@ -6,13 +6,13 @@ using Microsoft.EntityFrameworkCore;
 
 namespace InventoryManagementSystem.Data.Models;
 
-[Comment("Establishment entity.")]
+[Comment("Establishment entity model.")]
 public class Establishment
 {
     [Key]
     [Required]
-    [Comment("Entity primary key.")]
-    public required int Id { get; set; }
+    [Comment("Establishment's primary key.")]
+    public required Guid Id { get; set; }
     
     [Required]
     [MaxLength(NameMaxLengthValue)]
