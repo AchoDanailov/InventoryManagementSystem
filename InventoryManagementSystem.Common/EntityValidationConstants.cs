@@ -16,4 +16,9 @@ public static class EntityValidationConstants
         public const byte CityMaxLengthValue = 100;
         public const byte AddressMaxLengthValue = 200;
     }
+    
+    public static class Category
+    {
+        public const byte NameMaxLengthValue = 150;
+    }
 }
