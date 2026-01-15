@@ -1,4 +1,4 @@
-namespace BarInventoryManagementSystem.Web;
+namespace InventoryManagementSystem.Web;
 
 public class Program
 {

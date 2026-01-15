@@ -12,7 +12,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\BarInventoryManagementSystem.Data.Models\BarInventoryManagementSystem.Data.Models.csproj" />
+      <ProjectReference Include="..\InventoryManagementSystem.Data.Models\InventoryManagementSystem.Data.Models.csproj" />
     </ItemGroup>
 
 </Project>

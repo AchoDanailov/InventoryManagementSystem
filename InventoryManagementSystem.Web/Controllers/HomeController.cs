@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using BarInventoryManagementSystem.Web.Models;
+using InventoryManagementSystem.Web.Models;
 
-namespace BarInventoryManagementSystem.Web.Controllers;
+namespace InventoryManagementSystem.Web.Controllers;
 
 public class HomeController : Controller
 {

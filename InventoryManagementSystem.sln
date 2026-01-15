@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarInventoryManagementSystem.Data", "BarInventoryManagementSystem.Data\BarInventoryManagementSystem.Data.csproj", "{F5F897B9-21E4-4DAB-9E88-1DF3E347D49B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagementSystem.Data", "InventoryManagementSystem.Data\InventoryManagementSystem.Data.csproj", "{F5F897B9-21E4-4DAB-9E88-1DF3E347D49B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarInventoryManagementSystem.Services", "BarInventoryManagementSystem.Services\BarInventoryManagementSystem.Services.csproj", "{42B04D21-9A5B-4B75-A861-8CB0DF4D5520}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagementSystem.Services", "InventoryManagementSystem.Services\InventoryManagementSystem.Services.csproj", "{42B04D21-9A5B-4B75-A861-8CB0DF4D5520}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarInventoryManagementSystem.Data.Models", "BarInventoryManagementSystem.Data.Models\BarInventoryManagementSystem.Data.Models.csproj", "{613D4F7F-A2AD-4FAC-A4BA-B98CCD2EA01F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagementSystem.Data.Models", "InventoryManagementSystem.Data.Models\InventoryManagementSystem.Data.Models.csproj", "{613D4F7F-A2AD-4FAC-A4BA-B98CCD2EA01F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarInventoryManagementSystem.Web", "BarInventoryManagementSystem.Web\BarInventoryManagementSystem.Web.csproj", "{E6D12D53-A54B-42F1-8CBF-41F1085D3DFD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagementSystem.Web", "InventoryManagementSystem.Web\InventoryManagementSystem.Web.csproj", "{E6D12D53-A54B-42F1-8CBF-41F1085D3DFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
